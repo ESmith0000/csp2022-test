@@ -6,3 +6,13 @@ h1 {
 body{
   background-color: green;
 }
+
+h3 {
+  color: blue;
+  font-size: 30pt;
+}
+
+h6 {
+  color: brown;
+  font-size: 10pt;
+}
