@@ -1,8 +1,8 @@
 .hero-image {
   background-image: url("https://www.cnet.com/a/img/resize/3389de9819279904c5a9d3b0fc08d29c717e0e8f/hub/2022/08/18/dae391cf-315c-4543-b8fb-adef44946d37/screen-shot-2022-08-18-at-2-02-33-pm.png?auto=webp&fit=crop&height=675&width=1200");
-  background-color: #cccccc;
+  background-color: #000000;
   height: 750px;
-  background-position: left;
+  background-position: right;
   background-repeat: no-repeat;
   position: relative;
 }
